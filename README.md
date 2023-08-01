@@ -51,5 +51,5 @@ Every person or organisation who wants to sponsor given hackathon can set additi
 Warmly welcome! Kindly go through [Contribution Guidelines](CONTRIBUTING.md) first.
 
 ## Code of Conduct
-
+ 
 See [Code of Conduct](CODE-OF-CONDUCT.md).
