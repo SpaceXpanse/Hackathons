@@ -42,3 +42,11 @@ Hackathons play a significant role in the **SpaceXpanse Multiverse** startup eco
 12. Disqualification: Clearly state the actions or behaviors that may lead to disqualification, such as plagiarism, cheating, or violation of the code of conduct.
 
 It's important to note that these rules may vary depending on the specific hackathon and its objectives. Organizers have the flexibility to adapt and customize the rules to suit their event's purpose and requirements.
+
+## Contributing
+
+Warmly welcome! Kindly go through [Contribution Guidelines](CONTRIBUTING.md) first.
+
+## Code of Conduct
+
+See [Code of Conduct](CODE-OF-CONDUCT.md).
