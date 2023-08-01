@@ -1,1 +1,1 @@
-# Hackathon
+# Hackathon Starter Kit
