@@ -43,6 +43,9 @@ Hackathons play a significant role in the **SpaceXpanse Multiverse** startup eco
 
 It's important to note that these rules may vary depending on the specific hackathon and its objectives. Organizers have the flexibility to adapt and customize the rules to suit their event's purpose and requirements.
 
+## Sponsorship 
+Every person or organisation who wants to sponsor given hackathon can set additional prizes and links of their chosing can be shown in Sponsor section of this repository.
+
 ## Contributing
 
 Warmly welcome! Kindly go through [Contribution Guidelines](CONTRIBUTING.md) first.
