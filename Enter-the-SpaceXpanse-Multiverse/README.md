@@ -13,8 +13,8 @@ Hackathons play a significant role in the **SpaceXpanse Multiverse** startup eco
 
 5. Eligibility: 
    - A valid GitHub registration.
-   - The project has to be added in **Showcases** category of this repository's [Disscusions](https://github.com/SpaceXpanse/Hackathon-starter-kit/discussions/categories/showcases) with at least a short name and a description of the idea and its purpose. 
-   - The actual contribution to this hackathon will follow the GitHub's [fork-and-pull-model](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/getting-started/about-collaborative-development-models#fork-and-pull-model).
+   - The project has to be added in **Showcases** category of this repository's [Disscusions](https://github.com/SpaceXpanse/Hackathon-starter-kit/discussions/categories/showcases) with at least a shortname and a description of the idea and its purpose. Then a branch will be created from this one with the given shortname.
+   - The actual contribution to this hackathon will follow the GitHub's [fork-and-pull-model](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/getting-started/about-collaborative-development-models#fork-and-pull-model). The participants have to commit their changes to the branch, corresponding with their project's shortname.
    - The source code has to be able to be compiled into an output by using [GitHub Actions](https://github.com/features/actions). You can use the code from the ROD core wallet as [working example](https://github.com/SpaceXpanse/rod-core-wallet/blob/0.6.8/.github/workflows/build-ubuntu20-macos11.yml). This will reassure everyone that there's no faulty or mischeavous code in the output.
    - The source code has to be licensed under the MIT license.
    - There's no specific skill sets required to participate but some knowledge of [SpaceXpanse Metaverse Simulator](https://github.com/SpaceXpanse/Metaverse) /derived from Orbiter Sim/ and [libspex](https://github.com/SpaceXpanse/libspex) /derived from libxayagame/ will be usefull.
