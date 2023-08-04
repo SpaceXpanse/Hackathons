@@ -9,7 +9,7 @@ Hackathons play a significant role in the **SpaceXpanse Multiverse** startup eco
 
 3. Code of Conduct: See [Code of Conduct](CODE-OF-CONDUCT.md).
 
-4. Intellectual Property: The source code is licensed under the MIT license /except for XSound for SpaceXpanse Metaverse Simulator/, so the licensing of the hackathon's artifacts /output/ has to be the same.
+4. Intellectual Property: The source code is licensed under the MIT license /except for XSound module of SpaceXpanse Metaverse Simulator/, so the licensing of the hackathon's artifacts /output/ has to be the same.
 
 5. Eligibility: 
    - The project has to be added in **Showcases category** of this repository's [Disscusions](https://github.com/SpaceXpanse/Hackathon-starter-kit/discussions/categories/showcases) with atleast a short name and a description of the idea and its purpose. 
