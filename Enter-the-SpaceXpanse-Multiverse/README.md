@@ -23,7 +23,7 @@ Hackathons play a significant role in the **SpaceXpanse Multiverse** startup eco
    Examples:
    - Simple decentralized chat program.
    - Simple NFT creation program.
-   - A wallet that uses the ROD blockchain's arbitrary names' system, eg. p/yourname, instead of the accounts's addresses.
+   - A wallet that uses the ROD blockchain's arbitrary name system, eg. p/yourname, instead of the accounts's addresses.
    - A simple puzzle game in which users can solve puzzles, complete levels, and compete with others for high scores.
    - Implement the libspex library into the Metaverse Simulator and give some reward in ROD coins when the user reaches a stable Earth's orbit.
 
@@ -31,6 +31,7 @@ Hackathons play a significant role in the **SpaceXpanse Multiverse** startup eco
    - The SpaceXpanse Metaverse Simulator whicha can be found in Metaverse-simulator directory here, its APIs and its [documentation](https://github.com/SpaceXpanse/Metaverse/wiki).
    - The libspex library which can be found in libspex directory here, it's tools and examples: Hello World, nonfungibled, ships and side channels, and their [documentation](https://github.com/SpaceXpanse/Documentation/wiki).
    - The [ROD core wallet](https://github.com/SpaceXpanse/rod-core-wallet/tree/0.6.8) and its [documentation](https://github.com/SpaceXpanse/Documentation/wiki).
+   - [ROD mainnet explorer](http://explorer1.rod.spacexpanse.org:3001/) and [ROD testnet explorer /BETA/](http://explorer.rod.spacexpanse.org:3002/blocks) can be used to dig into the transactions and more.. 
 
 9. Submission Guidelines: The new source code and its output must be submitted to this repository through a pull request before the end of this hackathon, as defined in Section 2 /Time Limit/ of this document.
 
