@@ -1,0 +1,22 @@
+*.user
+*.VC.db
+**/.vs/
+meshres*.h
+CMakeSettings.json
+out/**
+!/Sound/XRSound/XRSound/**/*.vcxproj.user
+**/*.bak
+
+# .NET-specific directories
+bin/
+obj/
+
+# XRSound-specific directories
+Sound/XRSound/**/Debug/
+Sound/XRSound/**/Release/
+Sound/XRSound/**/x64/
+Sound/XRSound/**/dist/
+Sound/XRSound/**/Debug-with-SpaceXpanseRelease/
+Sound/XRSound/**/Release-with-SpaceXpanseRelease/
+
+*.~*

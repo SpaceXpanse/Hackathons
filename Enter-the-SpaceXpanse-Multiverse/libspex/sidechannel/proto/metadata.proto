@@ -1,0 +1,56 @@
+// Copyright (C) 2019 The SpaceXpanse developers
+// Distributed under the MIT software license, see the accompanying
+// file COPYING or http://www.opensource.org/licenses/mit-license.php.
+
+syntax = "proto2";
+
+package spacexpanse.proto;
+
+/** A participant in a side channel.  */
+message ChannelParticipant
+{
+
+  /** The SpaceXpanse p/ name of the participant (their main handle).  */
+  optional string name = 1;
+
+  /** The signing address configured for this channel.  */
+  optional string address = 2;
+
+}
+
+/** Metadata for a side channel.  */
+message ChannelMetadata
+{
+
+  /** The participants of the channel.  The order matters.  */
+  repeated ChannelParticipant participants = 1;
+
+  /**
+   * Identifier for the current "reinitialisation" of the channel.  This should
+   * be a string of bytes that uniquely identifies the current state of the
+   * channel with respect to changes to metadata and other "significant"
+   * on-chain changes.  For instance, if some participant joins the channel
+   * or leaves it, the reinitialisation should be updated.  But also if at
+   * a later stage the channel again has the same set of participants as
+   * previously, it should probably have a different reinitialisation ID then.
+   *
+   * The exact format of this string and how it is updated may depend on the
+   * particular game and its rules for how metadata and participants can change.
+   * A good rule of thumb could be to set this to a hash based on the previous
+   * identifier and the txid that led to the update.
+   *
+   * Leaving this field unset is equivalent to an empty string.  This is fine,
+   * e.g. for the very first state of a channel that was just created, as long
+   * as it will be set to something else later on when more changes happen.
+   */
+  optional bytes reinit = 2;
+
+  /**
+   * Custom data that can be used in a game-specific way.  For instance,
+   * this can hold e.g. the amount of money a game is played for, or
+   * some "parameters" that participants agreed upon when they started
+   * the channel.
+   */
+  optional bytes custom = 3;
+
+}
