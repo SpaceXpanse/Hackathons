@@ -1,4 +1,4 @@
-# 1st SpaceXpanse Hackathon: Enter the SpaceXpanse Multiverse (till August 31st)
+# 1st SpaceXpanse Hackathon: Enter the SpaceXpanse Multiverse
 Hackathons play a significant role in the **SpaceXpanse Multiverse** startup ecosystem by fostering innovation, collaboration, and problem-solving. These events bring together a diverse group of individuals with various skills and expertise to work intensively on developing new ideas, products, or solutions within a short timeframe.  
 
 ## Rules
