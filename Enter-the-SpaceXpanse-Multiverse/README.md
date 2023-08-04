@@ -54,3 +54,6 @@ See [Code of Conduct](CODE-OF-CONDUCT.md).
 ## Security
 
 For more info on the subject, see [Security](SECURITY.md).
+
+### Guidelines
+The SpaceXpanse hackathons will follow the guidelines from [Microsoft hackathon starter kit](https://microsoft.github.io/hackathon-starter-kit/) and [outsystems.com/hackathon-kit](https://www.outsystems.com/hackathon-kit/).
