@@ -19,7 +19,7 @@ Hackathons play a significant role in the **SpaceXpanse Multiverse** startup eco
    - The source code has to be licensed under the MIT license.
    - There's no specific skill sets required to participate but some knowledge of [SpaceXpanse Metaverse Simulator](https://github.com/SpaceXpanse/Metaverse) /derived from Orbiter Sim/ and [libspex](https://github.com/SpaceXpanse/libspex) /derived from libxayagame/ will be usefull.
 
-7. Project Scope: To make a working MVP/prototype/ of a dApp working within the SpaceXpanse Multiverse platform by using a set of given tools.  
+7. Project Scope: To make a working MVP/prototype/ of a dApp using the SpaceXpanse Multiverse platform by a set of given tools.  
    Examples:
    - Simple decentralized chat program.
    - Simple NFT creation program.
