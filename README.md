@@ -57,3 +57,7 @@ Warmly welcome! Kindly go through [Contribution Guidelines](CONTRIBUTING.md) fir
 ## Code of Conduct
 
 See [Code of Conduct](CODE-OF-CONDUCT.md).
+
+## Security
+
+For more info on the subject, see [Security](https://github.com/SpaceXpanse/Hackathon-starter-kit/blob/main/SECURITY.md).
