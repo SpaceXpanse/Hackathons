@@ -15,7 +15,7 @@ Hackathons play a significant role in the **SpaceXpanse Multiverse** startup eco
    - A valid GitHub registration.
    - The project has to be added in **Showcases** category of this repository's [Disscusions](https://github.com/SpaceXpanse/Hackathon-starter-kit/discussions/categories/showcases) with at least a short name and a description of the idea and its purpose. 
    - The actual contribution to this hackathon will follow the GitHub's [fork-and-pull-model](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/getting-started/about-collaborative-development-models#fork-and-pull-model).
-   - The source code has to be able to be compiled into an output by using [GitHub Actions](https://github.com/features/actions). You can use the code from the ROD core wallet as [working example](https://github.com/SpaceXpanse/rod-core-wallet/blob/0.6.8/.github/workflows/build-ubuntu20-macos11.yml). 
+   - The source code has to be able to be compiled into an output by using [GitHub Actions](https://github.com/features/actions). You can use the code from the ROD core wallet as [working example](https://github.com/SpaceXpanse/rod-core-wallet/blob/0.6.8/.github/workflows/build-ubuntu20-macos11.yml). This will reassure everyone that there's no faulty or mischeavous code in the output.
    - The source code has to be licensed under the MIT license.
    - There's no specific skill sets required to participate but some knowledge of [SpaceXpanse Metaverse Simulator](https://github.com/SpaceXpanse/Metaverse) /derived from Orbiter Sim/ and [libspex](https://github.com/SpaceXpanse/libspex) /derived from libxayagame/ will be usefull.
 
@@ -23,9 +23,9 @@ Hackathons play a significant role in the **SpaceXpanse Multiverse** startup eco
    Examples:
    - Simple decentralized chat program.
    - Simple NFT creation program.
-   - A wallet which uses the ROD blockchain arbitrary names' system, eg. p/yourname, instead of the accounts's addresses.
+   - A wallet that uses the ROD blockchain's arbitrary names' system, eg. p/yourname, instead of the accounts's addresses.
    - A simple puzzle game in which users can solve puzzles, complete levels, and compete with others for high scores.
-   - Implement libspex library into the Metaverse Simulator and give some reward in ROD coins when the user reaches a stable Earth's orbit.
+   - Implement the libspex library into the Metaverse Simulator and give some reward in ROD coins when the user reaches a stable Earth's orbit.
 
 8. Equipment and Tools:
    - The SpaceXpanse Metaverse Simulator whicha can be found in Metaverse-simulator directory here, its APIs and its [documentation](https://github.com/SpaceXpanse/Metaverse/wiki).
