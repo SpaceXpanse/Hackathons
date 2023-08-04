@@ -12,7 +12,8 @@ Hackathons play a significant role in the **SpaceXpanse Multiverse** startup eco
 4. Intellectual Property: The source code is licensed under the MIT license /except for XSound module of SpaceXpanse Metaverse Simulator/, so the licensing of the hackathon's artifacts /output/ has to be the same.
 
 5. Eligibility: 
-   - The project has to be added in **Showcases category** of this repository's [Disscusions](https://github.com/SpaceXpanse/Hackathon-starter-kit/discussions/categories/showcases) with atleast a short name and a description of the idea and its purpose. 
+   - A valid GitHub registration.
+   - The project has to be added in **Showcases** category of this repository's [Disscusions](https://github.com/SpaceXpanse/Hackathon-starter-kit/discussions/categories/showcases) with at least a short name and a description of the idea and its purpose. 
    - The actual contribution to this hackathon will follow the GitHub's [fork-and-pull-model](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/getting-started/about-collaborative-development-models#fork-and-pull-model).
    - The source code has to be able to be compiled into an output by using [GitHub Actions] 
    - The source code has to be licensed under the MIT license.
