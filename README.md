@@ -1,4 +1,8 @@
 # SpaceXpanse Hackathons
+
+### Current
+- [1st SpaceXpanse Hackathon: Enter the SpaceXpanse Multiverse (till August 31st)](https://github.com/SpaceXpanse/Hackathon-starter-kit/tree/main/Enter-the-SpaceXpanse-Multiverse)
+
 Hackathons play a significant role in the **SpaceXpanse Multiverse** startup ecosystem by fostering innovation, collaboration, and problem-solving. These events bring together a diverse group of individuals with various skills and expertise to work intensively on developing new ideas, products, or solutions within a short timeframe. Here are some of the major roles of hackathons in our startup ecosystem:
 
 - Idea generation: Hackathons provide a platform for generating fresh and innovative ideas. Participants are encouraged to think outside the box and come up with creative solutions to real-world problems.
@@ -14,10 +18,6 @@ Hackathons play a significant role in the **SpaceXpanse Multiverse** startup eco
 - Cultivating entrepreneurship: Hackathons cultivate an entrepreneurial mindset by encouraging participants to take risks, embrace failure as a learning opportunity, and develop a bias towards action. These events provide a supportive environment for aspiring entrepreneurs to explore their ideas and gain confidence in their abilities.
 
 <!-- In summary, hackathons are an integral part of the startup ecosystem, promoting innovation, collaboration, skill development, and idea validation. They serve as a catalyst for bringing together talented individuals, fostering creativity and entrepreneurship, and accelerating the development of new products or solutions. -->
-
-### Current
-- [1st SpaceXpanse Hackathon: Enter the SpaceXpanse Multiverse (till August 31st)](https://github.com/SpaceXpanse/Hackathon-starter-kit/tree/main/Enter-the-SpaceXpanse-Multiverse)
-
 
 ## Rules
 
