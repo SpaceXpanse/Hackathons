@@ -15,7 +15,10 @@ Hackathons play a significant role in the **SpaceXpanse Multiverse** startup eco
 
 <!-- In summary, hackathons are an integral part of the startup ecosystem, promoting innovation, collaboration, skill development, and idea validation. They serve as a catalyst for bringing together talented individuals, fostering creativity and entrepreneurship, and accelerating the development of new products or solutions. -->
 
-<!-- ## Rules
+## [1st SpaceXpanse Hackathon, till August 31st](https://github.com/SpaceXpanse/Enter-the-SpaceXpanse-Multiverse)
+
+
+## Rules
 
 1. Team Size: Specify the maximum and minimum team size allowed for participants. This rule encourages collaboration and teamwork.
 
@@ -41,7 +44,7 @@ Hackathons play a significant role in the **SpaceXpanse Multiverse** startup eco
 
 12. Disqualification: Clearly state the actions or behaviors that may lead to disqualification, such as plagiarism, cheating, or violation of the code of conduct.
 
-It's important to note that these rules may vary depending on the specific hackathon and its objectives. Organizers have the flexibility to adapt and customize the rules to suit their event's purpose and requirements. -->
+It's important to note that these rules may vary depending on the specific hackathon and its objectives. Organizers have the flexibility to adapt and customize the rules to suit their event's purpose and requirements.
 
 ## Sponsorship 
 Every person or organization that wants to sponsor a given hackathon can set additional prizes, and links of their chosing can be shown in Sponsor section of this repository.
