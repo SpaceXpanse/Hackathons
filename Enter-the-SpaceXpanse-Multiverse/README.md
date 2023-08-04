@@ -9,12 +9,13 @@ Hackathons play a significant role in the **SpaceXpanse Multiverse** startup eco
 
 3. Code of Conduct: See [Code of Conduct](CODE-OF-CONDUCT.md).
 
-4. Intellectual Property: The source code is licensed under the MIT license /except for XSound for SpaceXpanse Metaverse Simulator/, so the licensing of the hackathon's artifacts /output codes/ has to be the same.
+4. Intellectual Property: The source code is licensed under the MIT license /except for XSound for SpaceXpanse Metaverse Simulator/, so the licensing of the hackathon's artifacts /output/ has to be the same.
 
 5. Eligibility: 
    - The project has to be added in **Showcases category** of this repository's [Disscusions](https://github.com/SpaceXpanse/Hackathon-starter-kit/discussions/categories/showcases) with atleast a short name and a description of the idea and its purpose. 
-   - The actual contribution to this hackathon will follow the GitHub's [fork-and-pull-model](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/getting-started/about-collaborative-development-models#fork-and-pull-model). 
-   - The source code has to be licensed under MIT license.
+   - The actual contribution to this hackathon will follow the GitHub's [fork-and-pull-model](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/getting-started/about-collaborative-development-models#fork-and-pull-model).
+   - The source code has to be able to be compiled into an output by using [GitHub Actions] 
+   - The source code has to be licensed under the MIT license.
    - There's no specific skill sets required to participate but some knowledge of [SpaceXpanse Metaverse Simulator](https://github.com/SpaceXpanse/Metaverse) /derived from Orbiter Sim/ and [libspex](https://github.com/SpaceXpanse/libspex) /derived from libxayagame/ will be usefull.
 
 7. Project Scope: To make a working MVP/prototype/ of a dApp working within the SpaceXpanse Multiverse platform by using a set of given tools.
@@ -30,21 +31,23 @@ Hackathons play a significant role in the **SpaceXpanse Multiverse** startup eco
    - The libspex library, it's tools and examples: Hello World, nonfungibled, ships and side channels, and their [documentation](https://github.com/SpaceXpanse/Documentation/wiki).
    - The ROD core wallet and its [documentation](https://github.com/SpaceXpanse/Documentation/wiki).
 
-9. Submission Guidelines: Clearly define the requirements for project submissions, including the format, documentation, and any additional materials that need to be provided.
+9. Submission Guidelines: The new source code and its output must be submitted o this repository through a pull request before the end of this hackathon, defined in 2. Time Limit of this document.
 
-10. Judging Criteria: Outline the criteria by which the projects will be evaluated. This can include factors like innovation, functionality, usability, design, and impact.
+10. Judging Criteria: The projects will be evaluated by factors like innovation, functionality, usability, design, and impact. The shortlisted project will be be added to a poll for the SpaceXpanse community to decide the final winner. See Sponsorship for more.
 
-11. Prizes and Awards: Communicate the prizes and awards that will be given to the winners or top-performing teams. This can include cash rewards, mentorship opportunities, or access to resources that can help further develop their projects.
+11. Prizes and Awards: The prizefor the winner is **1 000 000 ROD**. An additional awards can be given to other projects or top-performing teams by the SpaceXpanse and other individuals and orgranisations. This can include cash rewards, mentorship opportunities, or access to resources that can help further develop their projects.
 
 12. Presentation Guidelines: Specify the format and duration of the final project presentations. This ensures a level playing field and allows all participants to showcase their work effectively.
 
-13. Disqualification: Clearly state the actions or behaviors that may lead to disqualification, such as plagiarism, cheating, or violation of the code of conduct.
+13. Disqualification:
+    - Fail to comply with the subpoints from 5. Eligibility of this document.
+    - Foul actions or behaviors, such as plagiarism, cheating, or violation of the code of conduct. For example: messed up and problematic fork's commits' history. 
 
 ### Disclaimer: 
 It's important to note that these rules may be changed depending on the specific hackathon and its objectives. Organizers have the flexibility to adapt and customize the rules to suit their event's purpose and requirements. 
 
 ## Sponsorship 
-Every person or organization that wants to sponsor a given hackathon can set additional prizes, and links of their chosing can be shown in Sponsor section of this repository.
+Every individual or organization that wants to sponsor a given hackathon can set additional prizes, and links of their chosing can be shown in Sponsor section of this repository. Contact us for more.
 
 ## Contributing
 
