@@ -9,17 +9,17 @@ Hackathons play a significant role in the **SpaceXpanse Multiverse** startup eco
 
 3. Code of Conduct: See [Code of Conduct](CODE-OF-CONDUCT.md).
 
-4. Intellectual Property: The source code is licensed under the MIT license /except for XSound module of SpaceXpanse Metaverse Simulator/, so the licensing of the hackathon's artifacts /output/ has to be the same.
+4. Intellectual Property: The source code is licensed under the MIT license /except for the XSound module of SpaceXpanse Metaverse Simulator/, so the licensing of the hackathon's artifacts /output/ has to be the same.
 
 5. Eligibility: 
    - A valid GitHub registration.
    - The project has to be added in **Showcases** category of this repository's [Disscusions](https://github.com/SpaceXpanse/Hackathon-starter-kit/discussions/categories/showcases) with at least a shortname and a description of the idea and its purpose. Then a branch will be created from this one with the given shortname.
    - The actual contribution to this hackathon will follow the GitHub's [fork-and-pull-model](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/getting-started/about-collaborative-development-models#fork-and-pull-model). The participants have to commit their changes to the branch, corresponding with their project's shortname.
-   - The source code has to be able to be compiled into an output by using [GitHub Actions](https://github.com/features/actions). You can use the code from the ROD core wallet as [working example](https://github.com/SpaceXpanse/rod-core-wallet/blob/0.6.8/.github/workflows/build-ubuntu20-macos11.yml). This will reassure everyone that there's no faulty or mischeavous code in the output.
+   - The source code has to be able to be compiled into an output by using [GitHub Actions](https://github.com/features/actions). You can use the code from the ROD core wallet as [working example](https://github.com/SpaceXpanse/rod-core-wallet/blob/0.6.8/.github/workflows/build-ubuntu20-macos11.yml). This will reassure everyone that there's no faulty or malicious code in the output.
    - The source code has to be licensed under the MIT license.
    - There's no specific skill sets required to participate but some knowledge of [SpaceXpanse Metaverse Simulator](https://github.com/SpaceXpanse/Metaverse) /derived from Orbiter Sim/ and [libspex](https://github.com/SpaceXpanse/libspex) /derived from libxayagame/ will be usefull.
 
-7. Project Scope: To make a working MVP/prototype/ of a dApp using the SpaceXpanse Multiverse platform by a set of given tools.  
+7. Project Scope: To make a working MVP/prototype/ of a dApp using the SpaceXpanse Multiverse platform with a set of given tools.  
    Examples:
    - Simple decentralized chat program.
    - Simple NFT creation program.
@@ -42,8 +42,8 @@ Hackathons play a significant role in the **SpaceXpanse Multiverse** startup eco
 12. Presentation Guidelines: Although that is not mandatory, some presentation of the final project ensures a level playing field and allows the participants to showcase their work effectively.
 
 13. Disqualification:
-    - Fail to comply with the subpoints from section 5 /Eligibility/ of this document.
-    - Foul actions or behaviors, such as plagiarism, cheating, or violation of the code of conduct. For example: messed up and problematic fork's commit history. 
+    - Fail to comply with the subpoints from Section 5 /Eligibility/ of this document.
+    - Foul actions or behaviors, such as plagiarism, cheating, or violation of the code of conduct. For example: messed up and problematic fork's commit history.
 
 ### Disclaimer: 
 It's important to note that these rules may be changed depending on the specific hackathon and its objectives. Organizers have the flexibility to adapt and customize the rules to suit their event's purpose and requirements. 
