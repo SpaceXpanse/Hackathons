@@ -28,7 +28,7 @@ Hackathons play a significant role in the **SpaceXpanse Multiverse** startup eco
    - Implement the libspex library into the Metaverse Simulator and give some reward in ROD coins when the user reaches a stable Earth's orbit.
 
 8. Equipment and Tools:
-   - The SpaceXpanse Metaverse Simulator whicha can be found in Metaverse-simulator directory here, its APIs and its [documentation](https://github.com/SpaceXpanse/Metaverse/wiki).
+   - The SpaceXpanse Metaverse Simulator which can be found in Metaverse-simulator directory here, its APIs and its [documentation](https://github.com/SpaceXpanse/Metaverse/wiki).
    - The libspex library which can be found in libspex directory here, it's tools and examples: Hello World, nonfungibled, ships and side channels, and their [documentation](https://github.com/SpaceXpanse/Documentation/wiki).
    - The [ROD core wallet](https://github.com/SpaceXpanse/rod-core-wallet/tree/0.6.8) and its [documentation](https://github.com/SpaceXpanse/Documentation/wiki). It's highly recomended to use **testnet** and **regtest** instead of the main ROD blockchain to avoid its congestion if there's some faulty code. See the [documentation](https://github.com/SpaceXpanse/Documentation/wiki) for more.   
    - [ROD mainnet explorer](http://explorer1.rod.spacexpanse.org:3001/) and [ROD testnet explorer /BETA/](http://explorer.rod.spacexpanse.org:3002/blocks) can be used to dig into the transactions and more.. 
